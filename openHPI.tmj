@@ -69,7 +69,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"LeaderBoard.tmj"
+                 "value":"kahoot.tmj"
                 }],
          "type":"tilelayer",
          "visible":true,
