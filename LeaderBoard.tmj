@@ -230,7 +230,7 @@
                  "name":"LeaderLink",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/kahoot.com\/research-articles\/"
                         }, 
@@ -271,7 +271,7 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/kahoot.com\/library\/"
                         }, 
@@ -293,9 +293,9 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/link-springer-com.ezproxy.htwk-leipzig.de\/book\/10.1007\/978-3-658-14309-1"
+                         "value":"https:\/\/www.researchgate.net\/publication\/303446475_Die_Wirkung_von_Gamification_auf_Motivation_und_Leistung_Empirische_Studien_im_Kontext_manueller_Arbeitsprozesse"
                         }, 
                         {
                          "name":"openWebsiteWidth",

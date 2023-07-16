@@ -279,7 +279,7 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/open.hpi.de\/pages\/gamification"
                         }, 

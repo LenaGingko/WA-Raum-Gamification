@@ -24,16 +24,11 @@ WA.onInit().then(() => {
         WA.room.area.onLeave('catPopup').subscribe(closeCatPopup);   
         console.log('meow weg');
 
-        
     })
 
     WA.room.area.onEnter('Leinwand').subscribe(() => {
         WA.openTab('https://www.bpb.de/themen/kultur/digitale-spiele/504558/gamification-grundbegriffe-chancen-und-risiken/#node-content-title-0');
     });
-
-    //Rick https://boulderbugle.com/gamification_stategies_paper_10_09_2014-yh2u6u0e
-    //Was ist dein https://newskit.social/articles/new_gamification_stategies_10_09_2014
-    //Rick Roll2 https://newskit.social/articles/new_gamification_stategies_10_09_2014O
 
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
     bootstrapExtra().then(() => {
