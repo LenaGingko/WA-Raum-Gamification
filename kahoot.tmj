@@ -390,14 +390,9 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/kahoot.com\/"
-                        }, 
-                        {
-                         "name":"openWebsiteWidth",
-                         "type":"int",
-                         "value":30
                         }],
                  "rotation":0,
                  "type":"area",
@@ -412,14 +407,9 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/kahoot.com\/research-articles\/"
-                        }, 
-                        {
-                         "name":"openWebsiteWidth",
-                         "type":"int",
-                         "value":30
                         }],
                  "rotation":0,
                  "type":"area",
@@ -434,14 +424,9 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/kahoot.com\/library\/"
-                        }, 
-                        {
-                         "name":"openWebsiteWidth",
-                         "type":"int",
-                         "value":30
                         }],
                  "rotation":0,
                  "type":"area",
@@ -456,14 +441,9 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/youtu.be\/ZPhr9-ZaImg?t=61"
-                        }, 
-                        {
-                         "name":"openWebsiteWidth",
-                         "type":"int",
-                         "value":30
                         }],
                  "rotation":0,
                  "type":"area",

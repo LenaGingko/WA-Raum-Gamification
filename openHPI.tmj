@@ -328,14 +328,9 @@
                  "name":"Infotafel",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/open.hpi.de\/"
-                        }, 
-                        {
-                         "name":"openWebsiteWidth",
-                         "type":"int",
-                         "value":30
                         }],
                  "rotation":0,
                  "type":"area",
@@ -350,14 +345,9 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/open.hpi.de\/pages\/gamification"
-                        }, 
-                        {
-                         "name":"openWebsiteWidth",
-                         "type":"int",
-                         "value":30
                         }],
                  "rotation":0,
                  "type":"area",
@@ -372,14 +362,9 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/open.hpi.de\/courses"
-                        }, 
-                        {
-                         "name":"openWebsiteWidth",
-                         "type":"int",
-                         "value":30
                         }],
                  "rotation":0,
                  "type":"area",
@@ -394,14 +379,9 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/open.hpi.de\/pages\/about"
-                        }, 
-                        {
-                         "name":"openWebsiteWidth",
-                         "type":"int",
-                         "value":30
                         }],
                  "rotation":0,
                  "type":"area",
