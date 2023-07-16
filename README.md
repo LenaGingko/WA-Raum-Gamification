@@ -1,4 +1,7 @@
 # WorkAdventure Map Gamification
+
+![map](./map.png)
+
 ## Structure
 
 * *src*: Scripts files
