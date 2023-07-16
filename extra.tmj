@@ -68,7 +68,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"score.tmj"
+                 "value":"openHPI.tmj"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -319,7 +319,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"score.tmj"
+                 "value":"openHPI.tmj"
                 }],
          "type":"objectgroup",
          "visible":true,
