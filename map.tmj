@@ -309,7 +309,7 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/www.researchgate.net\/publication\/348136309_Using_Gamification_to_Design_Courses_Lessons_Learned_in_a_Three-year_Design-based_Study"
                         }, 
