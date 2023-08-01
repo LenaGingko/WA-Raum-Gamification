@@ -275,9 +275,9 @@
                  "name":"Leinwand",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/www.bpb.de\/themen\/kultur\/digitale-spiele\/504558\/gamification-grundbegriffe-chancen-und-risiken\/#node-content-title-0"
+                         "value":"https:\/\/www.bpb.de\/themen\/kultur\/digitale-spiele\/504558\/gamification-grundbegriffe-chancen-und-risiken\/"
                         }, 
                         {
                          "name":"openWebsiteWidth",
