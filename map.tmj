@@ -273,6 +273,17 @@
                  "height":59.333333333333,
                  "id":23,
                  "name":"Leinwand",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.bpb.de\/themen\/kultur\/digitale-spiele\/504558\/gamification-grundbegriffe-chancen-und-risiken\/#node-content-title-0"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":50
+                        }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
