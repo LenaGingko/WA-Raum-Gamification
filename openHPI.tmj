@@ -263,7 +263,7 @@
                  "name":"geblockt",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":30,
                  "x":0,
                  "y":0
@@ -294,7 +294,7 @@
                  "name":"urls",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":30,
                  "x":0,
                  "y":0
@@ -302,7 +302,7 @@
          "name":"zonen",
          "opacity":1,
          "type":"group",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -378,6 +378,23 @@
                  "width":54.6666666666666,
                  "x":810,
                  "y":190.666666666667
+                }, 
+                {
+                 "height":221.345492443981,
+                 "id":13,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"kahoot.tmj"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":47.0734757686296,
+                 "x":926.446065659198,
+                 "y":225.686642348445
                 }],
          "offsetx":2.8421709430404e-14,
          "offsety":0.666666666666686,
@@ -394,7 +411,7 @@
          "y":0
         }],
  "nextlayerid":28,
- "nextobjectid":13,
+ "nextobjectid":14,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.1",
